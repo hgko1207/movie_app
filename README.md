@@ -2,14 +2,14 @@
 
 React JS Fundamentals Course (2020 Update!)
 
-####Create React 
+###Create React Project
 npx create-react-app movie_app
 cd movie_app
 npm start
 
 https://github.com/facebook/create-react-app
 
-####Navigation
+###Navigation
 
 - Movie List
 - About
