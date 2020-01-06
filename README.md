@@ -2,7 +2,11 @@
 
 React JS Fundamentals Course (2020 Update!)
 
-React Study Start
+Create React 
+``
+
+Navigation
 
 - Movie List
 - About
+- Movie Detail
