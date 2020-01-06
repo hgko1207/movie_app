@@ -3,11 +3,13 @@
 React JS Fundamentals Course (2020 Update!)
 
 ### Create React Project
-```npx create-react-app movie_app
+```
+npx create-react-app movie_app
 cd movie_app
-npm start```
+npm start
+```
 
-Link: https://github.com/facebook/create-react-app
+<https://github.com/facebook/create-react-app/>
 
 ### Navigation
 
